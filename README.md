@@ -18,7 +18,7 @@ This is a simple food ordering web app using Servlets, JDBC, and MySQL.
 -->  How to Run
 1. Import into Eclipse
 2. Run on Tomcat Server
-3. Access: 'http://localhost:8080/FoodOrderingApp'
+3. Access: 'http://localhost:8082/FoodDB/'
 
 -->  Database Setup (MySQL)
 sql
