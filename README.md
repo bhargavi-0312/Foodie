@@ -32,4 +32,7 @@ CREATE TABLE orders (
     price INT,
     total_price INT
 );
+
+
+
 ---"BON APPETIT"---
