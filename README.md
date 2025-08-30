@@ -1,4 +1,4 @@
--> 🍴 Food Ordering App (Java Servlet + JDBC + MySQL)
+-> 🍴Foodie- Food Ordering App (Java Servlet + JDBC + MySQL)
 
 This is a simple food ordering web app using Servlets, JDBC, and MySQL.
 
