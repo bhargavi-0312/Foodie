@@ -32,6 +32,14 @@ CREATE TABLE orders (
     price INT,
     total_price INT
 );
+-->OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1ce1565-51aa-4466-8639-7ef4feb46129" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1adbc7c3-0b10-466b-8f0f-fdd484ae30e2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abdd0750-4453-4686-9575-bad8a0e2ae61" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89026b78-e51b-4904-86b3-8a34c1a270ce" />
+
+
+
 
 
 
