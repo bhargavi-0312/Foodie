@@ -33,14 +33,9 @@ CREATE TABLE orders (
     total_price INT
 );
 -->OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1ce1565-51aa-4466-8639-7ef4feb46129" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1adbc7c3-0b10-466b-8f0f-fdd484ae30e2" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abdd0750-4453-4686-9575-bad8a0e2ae61" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89026b78-e51b-4904-86b3-8a34c1a270ce" />
-
-
-
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ce111c2-c07b-4736-80e7-d57cd38b1d2e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d73d5bc1-40ce-49a1-b71a-82473a72f689" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e59971aa-8776-4820-a52d-09e38ddf1216" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc4aa9ff-2d06-41c2-997f-8f3d4862be44" />
 
 ---"BON APPETIT"---
